@@ -87,8 +87,8 @@ module.exports = {
 		'at-rule-empty-line-before': [
 			'always',
 			{
-				except: [ 'first-nested' ],
-				ignore: [ 'after-comment' ],
+				except: [ 'first-nested', ],
+				ignore: [ 'after-comment', 'blockless-after-same-name-blockless' ],
 			},
 		],
 		'at-rule-name-case': 'lower',
