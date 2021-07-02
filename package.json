@@ -17,18 +17,19 @@
 		"url": "https://github.com/MartinKolarik/stylelint-config/issues"
 	},
 	"dependencies": {
-		"stylelint-config-recommended": "^3.0.0"
+		"stylelint-config-recommended": "^5.0.0"
 	},
 	"peerDependencies": {
-		"stylelint": "^11.1.1"
+		"stylelint": "^13.13.1"
 	},
 	"devDependencies": {
-		"@martin-kolarik/eslint-config": "^2.0.1",
-		"eslint": "^6.6.0",
-		"eslint-plugin-chai-expect": "^2.0.1",
-		"eslint-plugin-html": "^6.0.0",
-		"eslint-plugin-node": "^10.0.0",
-		"eslint-plugin-promise": "^4.2.1",
-		"stylelint": "^11.1.1"
+		"@martin-kolarik/eslint-config": "^4.0.1",
+		"eslint": "^7.29.0",
+		"eslint-plugin-chai-expect": "^2.2.0",
+		"eslint-plugin-html": "^6.1.2",
+		"eslint-plugin-node": "^11.1.0",
+		"eslint-plugin-prefer-let": "^1.1.0",
+		"eslint-plugin-promise": "^5.1.0",
+		"stylelint": "^13.13.1"
 	}
 }
