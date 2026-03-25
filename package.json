@@ -23,13 +23,8 @@
 		"stylelint": "^14.13.0"
 	},
 	"devDependencies": {
-		"@martin-kolarik/eslint-config": "^7.0.0",
-		"eslint": "^8.25.0",
-		"eslint-plugin-chai-expect": "^3.0.0",
-		"eslint-plugin-html": "^7.1.0",
-		"eslint-plugin-node": "^11.1.0",
-		"eslint-plugin-prefer-let": "^3.0.1",
-		"eslint-plugin-promise": "^6.0.1",
+		"@martin-kolarik/eslint-config": "^8.0.4",
+		"eslint": "^9.29.0",
 		"stylelint": "^14.13.0"
 	}
 }
