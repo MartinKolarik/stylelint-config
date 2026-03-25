@@ -17,14 +17,14 @@
 		"url": "https://github.com/MartinKolarik/stylelint-config/issues"
 	},
 	"dependencies": {
-		"stylelint-config-recommended": "^9.0.0"
+		"stylelint-config-recommended": "^18.0.0"
 	},
 	"peerDependencies": {
-		"stylelint": "^14.13.0"
+		"stylelint": "^17.5.0"
 	},
 	"devDependencies": {
-		"@martin-kolarik/eslint-config": "^8.0.4",
+		"@martin-kolarik/eslint-config": "^8.1.0",
 		"eslint": "^9.29.0",
-		"stylelint": "^14.13.0"
+		"stylelint": "^17.5.0"
 	}
 }
