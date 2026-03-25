@@ -17,6 +17,7 @@
 		"url": "https://github.com/MartinKolarik/stylelint-config/issues"
 	},
 	"dependencies": {
+		"@stylistic/stylelint-plugin": "^5.0.1",
 		"stylelint-config-recommended": "^18.0.0"
 	},
 	"peerDependencies": {
